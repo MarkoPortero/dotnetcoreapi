@@ -27,7 +27,7 @@ namespace MarksWebApp.Controllers
             return await _context.TodoItems.ToListAsync();
         }
 
-        // GET: api/TodoItems/5
+        // GET: api/TodoItems/5 
         [HttpGet("{id}")]
         public async Task<ActionResult<TodoItem>> GetTodoItem(long id)
         {
@@ -47,12 +47,12 @@ namespace MarksWebApp.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTodoItem(long id, TodoItem todoItem)
         {
-            if (id != todoItem.Id)
+            if (id != todoItem.Id)  
             {
                 return BadRequest();
             }
 
-            _context.Entry(todoItem).State = EntityState.Modified;
+                _context.Entry(todoItem).State = EntityState.Modified;
 
             try
             {
