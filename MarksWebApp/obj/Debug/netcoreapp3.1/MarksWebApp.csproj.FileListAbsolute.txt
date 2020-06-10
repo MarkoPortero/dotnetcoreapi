@@ -295,4 +295,6 @@ C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\Microsoft.Ide
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\web.config
-C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.csprojAssemblyReference.cache
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
