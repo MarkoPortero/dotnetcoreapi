@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CRiQ67zXZ6g27ObKb7s9fE6No2wDXF6AOlsjs2AaPKyOL/HGrEUSTKQqrSlGpMbdQk63pDk3R3Z4NOx5wKMSdw==",
+  "dgSpecHash": "l7d7Zw8ErIe+dhJxfv16WxlXZoq4fA69Tq0S409mLFqypPmAuz5lDQcuWsY2vErELA9bmoRnYxMeAToXz4MXXQ==",
   "success": true,
   "projectFilePath": "C:\\Repos\\privaterepo\\MarksRepo\\MarksWebApp\\MarksWebApp.csproj",
   "expectedPackageFiles": [
@@ -88,6 +88,7 @@
     "C:\\Users\\mporter\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
     "C:\\Users\\mporter\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\mporter\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "C:\\Users\\mporter\\.nuget\\packages\\stringvalidators\\1.0.0\\stringvalidators.1.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

@@ -297,6 +297,4 @@ C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Collec
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.csprojAssemblyReference.cache
-C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\StringValidators.dll
-C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.csproj.CoreCompileInputs.cache
-C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\NuGet.Config

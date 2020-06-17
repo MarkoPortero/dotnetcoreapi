@@ -6,7 +6,7 @@
     using MarksWebApp.Services;
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;
-    /*using StringValidators;*/
+    using StringValidators;
 
     [Authorize]
     [ApiController]
@@ -24,10 +24,10 @@
         [HttpPost("authenticate")]
         public IActionResult Authenticate([FromBody] AuthenticateModel model)
         {
-            /*if(!UsernameValidator.ValidateAlphaNumeric(model.Username))
+            if(!UsernameValidator.ValidateAlphaNumeric(model.Username))
             {
                 return BadRequest("Username not AlphaNumeric");
-            }*/
+            }
 
             User user = _userService.Authenticate(model.Username, model.Password);
 
