@@ -278,8 +278,6 @@ C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\runtimes\win\
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.AssemblyInfoInputs.cache
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.AssemblyInfo.cs
-C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.csproj.CoreCompileInputs.cache
-C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.RazorTargetAssemblyInfo.cache
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.csproj.CopyComplete
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\staticwebassets\MarksWebApp.StaticWebAssets.Manifest.cache
@@ -298,3 +296,7 @@ C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\web.config
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.csprojAssemblyReference.cache
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\bin\Debug\netcoreapp3.1\StringValidators.dll
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.csproj.CoreCompileInputs.cache
+C:\Repos\privaterepo\MarksRepo\MarksWebApp\obj\Debug\netcoreapp3.1\MarksWebApp.MvcApplicationPartsAssemblyInfo.cache
